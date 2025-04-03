@@ -1,3 +1,5 @@
 textblob
 fastapi
 uvicorn
+selenium
+webdriver-manager
